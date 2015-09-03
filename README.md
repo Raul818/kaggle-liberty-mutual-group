@@ -10,6 +10,6 @@ https://www.kaggle.com/c/liberty-mutual-group-property-inspection-prediction
 - rf_grid_search.py - find best parameters for random forest from sklearn
 - xgboost_final.py - make submission with xgboost
 
-my best result is 0.392410 (134/2236).
+my best result is 0.392410 (134/2236) - top 10%.
 
 https://www.kaggle.com/emilkayumov
